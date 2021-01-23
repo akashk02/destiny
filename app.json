@@ -1,0 +1,12 @@
+{
+  "name": "destiny",
+  "displayName": "destiny",
+  "expo": {
+    "name": "destiny",
+    "slug": "destiny",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
