@@ -15,7 +15,7 @@ const store = createStore(Reducer, applyMiddleware(logger));
 export default function App() {
   return (
     <Provider store={store}>
-      <Test></Test>
+      <RootNavigator></RootNavigator>
     </Provider>
   );
 }
