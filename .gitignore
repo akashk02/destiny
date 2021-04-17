@@ -62,12 +62,3 @@ buck-out/
 # Expo
 .expo/*
 web-build/
-
-# Yarn v2
-.yarn/*
-!.yarn/patches
-!.yarn/releases
-!.yarn/plugins
-!.yarn/sdks
-!.yarn/versions
-.pnp.*
